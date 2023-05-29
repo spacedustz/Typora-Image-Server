@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "8496755a2ae5ad71",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +138,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8496755a2ae5ad71",
+  "active": "eed238007857855b",
   "lastOpenFiles": [
     "img/actionssecret.png",
     "img/runner3.png",

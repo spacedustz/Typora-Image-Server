@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fa1aca958e3c6718",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa1aca958e3c6718",
+  "active": "eed238007857855b",
   "lastOpenFiles": [
+    "img/math5.png",
     "img/webview4.png",
     "img/webview3.png",
     "img/webview2.png",
@@ -161,7 +151,6 @@
     "img/math3.png",
     "img/math2.png",
     "img/math1.png",
-    "img/jenkinscicd4.png",
     "LICENSE",
     "img/Test.txt",
     "img"

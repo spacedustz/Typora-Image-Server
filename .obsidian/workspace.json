@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "fa1aca958e3c6718",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eed238007857855b",
+  "active": "fa1aca958e3c6718",
   "lastOpenFiles": [
     "img/jenkinscicd4.png",
     "img/jenkinscicd3.png",

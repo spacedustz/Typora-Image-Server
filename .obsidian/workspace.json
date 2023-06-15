@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b96950a2b2952c20",
+    "id": "bc02a4a1418bae3b",
     "type": "split",
     "children": [
       {
-        "id": "8802287a3b816d02",
+        "id": "91e05cb31bdc8a69",
         "type": "tabs",
         "children": [
           {
-            "id": "eed238007857855b",
+            "id": "0da6a8b325009111",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "117618d8cf2800d7",
+    "id": "9723a99d888d55ae",
     "type": "split",
     "children": [
       {
-        "id": "b7405685bc758660",
+        "id": "0f0792873d28ad4f",
         "type": "tabs",
         "children": [
           {
-            "id": "72f884ec732ca491",
+            "id": "cc710f398c529099",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "567d2db9054b6566",
+            "id": "e50c7b49ac17c599",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "f27ca576dc2af5f7",
+            "id": "358c45d219793843",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 300
   },
   "right": {
-    "id": "f5cbf54661421336",
+    "id": "bbc69088fff602a7",
     "type": "split",
     "children": [
       {
-        "id": "871845ac8c0b1794",
+        "id": "ca67c695da848978",
         "type": "tabs",
         "children": [
           {
-            "id": "30df509261a444cf",
+            "id": "cdbe2f20015a2d0e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "e081ebb3fae64f3a",
+            "id": "dce25327b2957324",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "849789562d5a8c88",
+            "id": "86bf3741926f6481",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "953740b870e6cec5",
+            "id": "1c6047a07a28a789",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,21 +138,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "72f884ec732ca491",
+  "active": "0da6a8b325009111",
   "lastOpenFiles": [
-    "img/monitoring3.png",
-    "img/monitoring2.png",
-    "img/monitoring.png",
-    "img/bluegreen2.png",
-    "img/bluegreen.png",
-    "img/pythonscript3.png",
-    "img/pythonscript2.png",
-    "img/pythonscript.png",
-    "img/mysqldump1.png",
-    "img/mysqldump2.png",
-    "img/alb40.png",
-    "LICENSE",
+    "img/함수.png",
+    "img/소인수분해2.png",
+    "img/소인수분해.png",
+    "img/선언형트랜잭션.png",
+    "img/분산트랜잭션.png",
+    "img/미분.png",
+    "img/yield.png",
+    "img/wireframe4.png",
+    "img/wireframe3.png",
+    "img/wireframe2.png",
+    "img/wireframe1.png",
     "img/Test.txt",
-    "img"
+    "img",
+    "LICENSE"
   ]
 }

@@ -138,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0da6a8b325009111",
+  "active": "cc710f398c529099",
   "lastOpenFiles": [
+    "img2/card.png",
     "img2/cvedia-sample.png",
     "img2/cvedia-basic-pipeline.png",
     "img2/cvedia.png",
@@ -153,7 +154,6 @@
     "img/소인수분해.png",
     "img/선언형트랜잭션.png",
     "img/분산트랜잭션.png",
-    "img/미분.png",
     "img/Test.txt",
     "img",
     "LICENSE"

@@ -16,8 +16,19 @@
                 "file": "img2/form2.png"
               }
             }
+          },
+          {
+            "id": "a94ebe21c095de00",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +155,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cc710f398c529099",
+  "active": "a94ebe21c095de00",
   "lastOpenFiles": [
     "img2/socket.png",
     "img2/rabbit-env.png",

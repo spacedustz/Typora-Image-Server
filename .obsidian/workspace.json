@@ -26,9 +26,19 @@
                 "currentVersion": "1.4.5"
               }
             }
+          },
+          {
+            "id": "6dc691db14ff130a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,6 +147,16 @@
                 "file": "img2/form2.png"
               }
             }
+          },
+          {
+            "id": "90b894010909094a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -155,7 +175,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cc710f398c529099",
+  "active": "6dc691db14ff130a",
   "lastOpenFiles": [
     "img2/redis.png",
     "img2/erlang-node.png",

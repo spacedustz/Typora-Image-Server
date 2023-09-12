@@ -155,8 +155,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a94ebe21c095de00",
+  "active": "cc710f398c529099",
   "lastOpenFiles": [
+    "img2/redis.png",
     "img2/erlang-node.png",
     "img2/erlang-source.png",
     "img2/erlang-cookie2.png",
@@ -167,7 +168,6 @@
     "img2/rabbit-deprecated.png",
     "img2/rabbit-log3.png",
     "img2/rabbit-log2.png",
-    "img2/rabbit-log.png",
     "img2.lnk",
     "새 바로 가기.lnk",
     "img2",

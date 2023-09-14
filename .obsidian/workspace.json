@@ -36,9 +36,19 @@
                 "currentVersion": "1.4.11"
               }
             }
+          },
+          {
+            "id": "bcc35e269a71b813",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,7 +185,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6dc691db14ff130a",
+  "active": "bcc35e269a71b813",
   "lastOpenFiles": [
     "img2/done.png",
     "img2/connect2.png",

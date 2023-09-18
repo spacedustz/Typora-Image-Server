@@ -46,9 +46,19 @@
                 "currentVersion": "1.4.12"
               }
             }
+          },
+          {
+            "id": "d76a232757176e59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bcc35e269a71b813",
+  "active": "d76a232757176e59",
   "lastOpenFiles": [
     "img2/h-initdata4.png",
     "img2/h-initdata3.png",

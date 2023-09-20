@@ -51,9 +51,9 @@
             "id": "d76a232757176e59",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "img2/connect2.png"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img2/form2.png",
+                "file": "img2/connect2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img2/form2.png",
+                "file": "img2/connect2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img2/form2.png"
+                "file": "img2/connect2.png"
               }
             }
           },

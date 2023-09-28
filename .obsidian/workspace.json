@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img2/form2.png",
+                "file": "Monster-Slayer.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img2/form2.png",
+                "file": "Monster-Slayer.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img2/form2.png"
+                "file": "Monster-Slayer.png"
               }
             }
           },
@@ -195,21 +195,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cc710f398c529099",
+  "active": "d76a232757176e59",
   "lastOpenFiles": [
+    "img2/h-sock.png",
+    "img2/h-done.png",
+    "img2/form2.png",
     "img2/h-final.png",
     "img2/connect2.png",
     "img2/h-3.png.~tmp",
     "img2/h-2.png.~tmp",
     "img2/h-done2.png",
-    "img2/h-done.png",
-    "img2/h-sock.png",
     "img2/h-count.png",
     "img2/h-initdata4.png",
     "img2/h-initdata3.png",
     "img2/h-initdata2.png",
     "img2/h-initdata.png",
-    "img2/h-init2.png",
     "img2.lnk",
     "새 바로 가기.lnk",
     "img2",

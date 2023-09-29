@@ -46,19 +46,9 @@
                 "currentVersion": "1.4.12"
               }
             }
-          },
-          {
-            "id": "d76a232757176e59",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img2/h-done2.png"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img2/h-done2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img2/h-done2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "img2/h-done2.png"
-              }
+              "state": {}
             }
           },
           {
@@ -195,11 +181,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d76a232757176e59",
+  "active": "bcc35e269a71b813",
   "lastOpenFiles": [
-    "img2/h-time.png",
     "img2/h-done2.png",
     "img2/h-done.png",
+    "img2/h-time.png",
     "Monster-Slayer.png",
     "img2/h-sock.png",
     "img2/form2.png",

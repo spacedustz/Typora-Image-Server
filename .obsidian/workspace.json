@@ -53,7 +53,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Monster-Slayer.png"
+                "file": "img2/h-done2.png"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monster-Slayer.png",
+                "file": "img2/h-done2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monster-Slayer.png",
+                "file": "img2/h-done2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monster-Slayer.png"
+                "file": "img2/h-done2.png"
               }
             }
           },
@@ -197,19 +197,19 @@
   },
   "active": "d76a232757176e59",
   "lastOpenFiles": [
+    "img2/h-time.png",
+    "img2/h-done2.png",
     "img2/h-done.png",
+    "Monster-Slayer.png",
     "img2/h-sock.png",
     "img2/form2.png",
     "img2/h-final.png",
     "img2/connect2.png",
     "img2/h-3.png.~tmp",
     "img2/h-2.png.~tmp",
-    "img2/h-done2.png",
     "img2/h-count.png",
     "img2/h-initdata4.png",
     "img2/h-initdata3.png",
-    "img2/h-initdata2.png",
-    "img2/h-initdata.png",
     "img2.lnk",
     "새 바로 가기.lnk",
     "img2",

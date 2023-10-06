@@ -4,61 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "91e05cb31bdc8a69",
+        "id": "c159dbf41ca6054f",
         "type": "tabs",
         "children": [
           {
-            "id": "0da6a8b325009111",
+            "id": "44af30b65da7b0c8",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "img2/form2.png"
-              }
-            }
-          },
-          {
-            "id": "a94ebe21c095de00",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "6dc691db14ff130a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
-          },
-          {
-            "id": "bcc35e269a71b813",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "bd2186e5982c2a38",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +152,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bd2186e5982c2a38",
+  "active": "44af30b65da7b0c8",
   "lastOpenFiles": [
+    "img2/simulator-receive.png",
+    "img2/simulator-receive2.png",
     "img2/simulator-queue.png",
     "img2/simulator-log.png",
     "img2/h-done2.png",
@@ -206,10 +165,8 @@
     "img2/h-sock.png",
     "img2/form2.png",
     "img2/h-final.png",
-    "img2/connect2.png",
     "img2/h-3.png.~tmp",
     "img2/h-2.png.~tmp",
-    "img2/h-count.png",
     "img2.lnk",
     "새 바로 가기.lnk",
     "img2",

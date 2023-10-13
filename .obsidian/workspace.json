@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제 파일.md"
+              }
             }
           },
           {
@@ -148,19 +150,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "44af30b65da7b0c8",
+  "active": "cc710f398c529099",
   "lastOpenFiles": [
-    "img2/simulator-receive2.png",
-    "img2/simulator-receive.png",
-    "img2/simulator-queue.png",
-    "img2/simulator-log.png",
-    "img2/h-done2.png",
-    "img2/h-done.png",
-    "img2/h-time.png",
-    "Monster-Slayer.png",
-    "img2/h-sock.png",
-    "img2/form2.png",
-    "img2/h-final.png",
+    "무제 파일.md",
+    "img2/h-relay.png",
+    "img2/h-operation-time.png",
+    "img2/h-occupancy.png",
+    "img2/h-max-count-desc.png",
+    "img2/h-max-count3.png",
+    "img2/h-max-count2.png",
+    "img2/h-max-count.png",
+    "img2/h-finish.png",
+    "img2/h-custom-status.png",
+    "img2/h-3.png",
     "img2/h-3.png.~tmp",
     "img2/h-2.png.~tmp",
     "img2.lnk",

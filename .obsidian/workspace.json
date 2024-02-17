@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "img2/h-1.png"
+                "file": "img2/test-pipeline.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img2/h-1.png",
+                "file": "img2/test-pipeline.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img2/h-1.png",
+                "file": "img2/test-pipeline.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img2/h-1.png"
+                "file": "img2/test-pipeline.png"
               }
             }
           },
@@ -156,6 +156,9 @@
   },
   "active": "44af30b65da7b0c8",
   "lastOpenFiles": [
+    "img2/h-1.png",
+    "img2/test-pipeline 1.png",
+    "img2/test-pipeline.png",
     "img2/h-occupancy7.png",
     "img2/h-occupancy6.png",
     "img2/h-occupancy5.png",
@@ -165,9 +168,6 @@
     "img2/h-admin.png",
     "img2/h-close.png",
     "무제 파일.md",
-    "img2/h-relay.png",
-    "img2/h-operation-time.png",
-    "img2/h-occupancy.png",
     "img2/h-3.png.~tmp",
     "img2/h-2.png.~tmp",
     "img2.lnk",
